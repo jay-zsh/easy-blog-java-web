@@ -42,3 +42,5 @@
   - 遵循MVC设计模式
   - 使用tomcat9部署
   - mysql8进行数据存储
+  - 默认账户密码admin 123456
+  - 默认mysql账号密码root root
