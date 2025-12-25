@@ -40,3 +40,4 @@
   - 遵循MVC设计模式
   - 使用Bootstrap或其他前端框架美化界面
   - 遵循MVC设计模式
+  - 使用tomcat9部署,mysql8进行数据存储
